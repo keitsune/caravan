@@ -14,6 +14,12 @@ header {
   padding: 15px 0;
   margin: 0 auto;
   text-align: center;
+  position: relative;
+}
+
+.social {
+  display: inline-block;
+  margin-left: 20px;
 }
 
 header .heading {
@@ -144,8 +150,7 @@ main {
   padding: 50px 0;
 }
 
-.popular-text
-.categories-text {
+.popular-text .categories-text {
   padding-bottom: 5px;
   border-bottom: 1px solid #f7f7f7;
   margin-bottom: 5px;
